@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-tic-tac-toe.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-tic-tac-toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-tic-tac-toe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-tic-tac-toe_main.iml" group="simple-tic-tac-toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-tic-tac-toe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-tic-tac-toe_test.iml" group="simple-tic-tac-toe" />
+    </modules>
+  </component>
+</project>
